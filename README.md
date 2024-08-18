@@ -4,7 +4,9 @@
 Projeyi ilk olarak ```npm i``` komutu ile bağımlı olan paketlerin indirilmesi sağlanmalıdır.
 Theoretical Test bölümü için projeye bir link ekledim soruları cevaplamaya çalıştım.Ve aşağıya aynı cevapları tekrar ekliyorum.
 
-Demo_link : 
+Demo_link : https://ilacasestudy.vercel.app/login
+
+NOT:Proje auth0 doğrulaması http://localhost:3000, https://ilacasestudy.vercel.app için yapılmıştır.Lütfen 3000 port sunucusunda çalıştırmayı deneyiniz.
 
 ___
 
